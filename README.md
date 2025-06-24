@@ -1,6 +1,6 @@
 # 🌌 Projeto LÚMEN: Laboratório Unificado de Modelagem, Engenharia e Narrativas
 
-![Banner do Projeto LÚMEN](./docs/imagens/banner_lumen.png)
+![Banner do Projeto LÚMEN](./img/banner._lumen.png)
 
 > "Onde há dados, há padrão. Onde há padrão, há informação. Onde há informação, há narrativa. E onde há narrativa, há o poder de transformar a realidade. LÚMEN é a nossa forja de narrativas."
 
