@@ -1,0 +1,15 @@
+# Arquivos de ambiente
+.env
+
+# Arquivos de sistema
+.DS_Store
+Thumbs.db
+
+# Diretórios de dependências Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+
+# Volumes do Docker (se mapeados localmente de forma diferente)
+postgres_data/
