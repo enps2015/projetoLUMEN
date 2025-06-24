@@ -32,8 +32,22 @@ O LÚMEN integra um conjunto de ferramentas poderosas, cada uma com um papel fun
     *   **Metabase (O Observatório Cósmico):** Nossa plataforma de Business Intelligence, a janela para a alma dos dados, onde as narrativas ganham vida em dashboards e gráficos.
     *   **JupyterLab (O Laboratório do Cientista):** O ambiente interativo para exploração de dados, análises ad-hoc e desenvolvimento de modelos de Machine Learning.
 
-*   **Automação:**
-    *   **Makefile:** Um conjunto de atalhos para simplificar a interação com o ambiente Docker, tornando o gerenciamento do projeto mais ágil e intuitivo.
+### 📜 O Grimório de Automação (Makefile)
+
+Para navegar pelas correntes cósmicas do Docker, um Mestre não digita longos e repetitivos encantamentos. Em vez disso, ele usa um grimório de automação: o `Makefile`.
+
+Este artefato ancestral, presente em quase todos os grandes projetos de software, nos permite criar atalhos (ou *feitiços*) para os comandos mais complexos. No Projeto LÚMEN, ele é a sua varinha mágica para orquestrar todo o ecossistema com simplicidade e elegância. Em vez de memorizar os detalhes do `docker-compose`, você apenas invoca o feitiço desejado.
+
+Aqui estão os feitiços que preparei para você neste grimório:
+
+| Feitiço (`make ...`) | Encantamento Real (`docker-compose ...`) | Descrição Mística                                                              |
+| :------------------- | :--------------------------------------- | :----------------------------------------------------------------------------- |
+| `make up`            | `docker-compose up -d`                   | Invoca e ergue toda a constelação de serviços LÚMEN em segundo plano.          |
+| `make down`          | `docker-compose down`                    | Dispensa graciosamente os serviços, colocando-os para repousar em sua dimensão. |
+| `make build`         | `docker-compose build`                   | Reforja as imagens dos seus contêineres após alterações em seus Dockerfiles.    |
+| `make logs`          | `docker-compose logs -f`                 | Abre um portal para observar os sussurros e eventos de todos os serviços.      |
+
+Com este conhecimento, você detém o poder de controlar seu laboratório com a agilidade de um verdadeiro Guardião do Conhecimento.
 
 ## ⚙️ Arquitetura e Fluxo de Dados
 
