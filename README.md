@@ -81,7 +81,7 @@ Para explorar a constelação LÚMEN em sua própria máquina, siga estes passos
 
 4.  **Acesse os Serviços:**
     Após a inicialização, os serviços estarão disponíveis nos seguintes portais:
-    *   **Metabase:** `http://localhost:3000`
+    *   **Metabase:** `http://localhost:3001`
     *   **Mage.ai:** `http://localhost:6789`
     *   **JupyterLab:** `http://localhost:8888`
     *   **PostgreSQL:** Conecte-se via `localhost` na porta `5432` com seu cliente SQL favorito.
