@@ -81,7 +81,7 @@ Para explorar a constelação LÚMEN em sua própria máquina, siga estes passos
 
 4.  **Acesse os Serviços:**
     Após a inicialização, os serviços estarão disponíveis nos seguintes portais:
-    *   **Metabase:** `http://localhost:3000`
+    *   **Metabase:** `http://localhost:3001`
     *   **Mage.ai:** `http://localhost:6789`
     *   **JupyterLab:** `http://localhost:8888`
     *   **PostgreSQL:** Conecte-se via `localhost` na porta `5432` com seu cliente SQL favorito.
@@ -94,19 +94,22 @@ Para explorar a constelação LÚMEN em sua própria máquina, siga estes passos
 
 ## 🖼️ Visão Geral do Ecossistema em Ação
 
-Aqui você pode ver capturas de tela do nosso ecossistema funcionando.
+
+**Visão geral do Ecossistema funcionando:**
+
+![Dashboard de Análise no Metabase](./img/CapturaTela01.png)`
 
 **Dashboard no Metabase:**
-*(Aqui você pode adicionar uma imagem de um dashboard que será criado)*
-`![Dashboard de Análise no Metabase](./docs/imagens/metabase_dashboard.png)`
+
+![Dashboard de Análise no Metabase](./img/CapturaTela02.png)`
 
 **Pipeline no Mage.ai:**
-*(Aqui você pode adicionar uma imagem do pipeline de ETL no Mage)*
-`![Pipeline de Dados no Mage.ai](./docs/imagens/mage_pipeline.png)`
+
+![Pipeline de Dados no Mage.ai](./img/CapturaTela03.png)`
 
 **Análise no JupyterLab:**
-*(Aqui você pode adicionar uma imagem de um notebook com análises)*
-`![Notebook de Análise no JupyterLab](./docs/imagens/jupyter_notebook.png)`
+
+![Notebook de Análise no JupyterLab](./img/CapturaTela04.png)`
 
 ## 🔭 Próximos Passos na Jornada
 
